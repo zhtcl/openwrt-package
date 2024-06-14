@@ -24,3 +24,4 @@ netkeeper
 smartdns
 adguardhome
 unblockneteasemusic
+onecloud
