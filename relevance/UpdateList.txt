@@ -13,3 +13,4 @@ luci-theme-kucat
 netkeeper-interception
 netkeeper
 smartdns
+OneCloud
